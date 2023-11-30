@@ -22,13 +22,13 @@ export const Happy = () => (
       <p>My Dear Coder..,</p>
       <p>
         if(birthday !== today)
-        <br /> {'return and not read;'}
+        <br /> {'return and not read :('}
       </p>
       <p>
         else if
         <br />
         (your_day === true)
-        <br /> {'return "Wishing You to be the best Coder ever";'}
+        <br /> {'return "Wishing You to be the best Senior Developer ever";'}
       </p>
       <p>
         else
